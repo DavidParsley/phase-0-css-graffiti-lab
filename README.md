@@ -69,7 +69,7 @@ We can do this by writing a selector statement that is more specific such as:
 ```css
 #wall .tag-1 {
   display: none;
-}
+}#
 ```
 
 This selects elements with a class of "tag-1" that happen to also be inside an
